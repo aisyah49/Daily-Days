@@ -1,0 +1,6 @@
+{
+  "name": "Cisini Stories",
+  "description": "3D adventure story-driven exploration and mystery life simulation game set in the charming Indonesian town of Cisini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
